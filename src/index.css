@@ -47,6 +47,7 @@ body {
 
 .selected {
   border: 2px solid black;
+  transform: scale(1.2);
 }
 
 /* colors */
